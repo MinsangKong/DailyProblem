@@ -1,4 +1,4 @@
-## 2021/06/02
+## 2021/06/04
 | 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
 |:------:|:----:|:---------:|:------:|:------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [18511](https://www.acmicpc.net/problem/18511) | [큰 수 구성하기](https://www.acmicpc.net/problem/18511) | 약 1시간 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/06-04/1.py)| 

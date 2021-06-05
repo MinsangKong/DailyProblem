@@ -1,4 +1,4 @@
-## 2021/06/02
+## 2021/06/03
 | 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
 |:------:|:----:|:---------:|:------:|:------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1159](https://www.acmicpc.net/problem/1159) | [농구 경기](https://www.acmicpc.net/problem/1159) | 약 15분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/06-03/1.py)| 
