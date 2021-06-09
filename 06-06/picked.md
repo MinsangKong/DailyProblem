@@ -1,4 +1,4 @@
-## 2021/06/05
+## 2021/06/06
 | 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
 |:------:|:----:|:---------:|:------:|:------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1718](https://www.acmicpc.net/problem/1718) | [암호](https://www.acmicpc.net/problem/1718) | 약 15분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/06-06/1-1.py)| 
