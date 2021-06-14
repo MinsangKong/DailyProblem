@@ -1,4 +1,4 @@
-## 2021/06/010
+## 2021/06/10
 | 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
 |:------:|:----:|:---------:|:------:|:------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [13702](https://www.acmicpc.net/problem/13702) | [이상한 술집](https://www.acmicpc.net/problem/13702) | 약 15분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/06-10/1.py)| 
