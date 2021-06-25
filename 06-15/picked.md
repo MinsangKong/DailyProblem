@@ -1,0 +1,7 @@
+## 2021/06/15
+| 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
+|:------:|:----:|:---------:|:------:|:------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [20152](https://www.acmicpc.net/problem/20152) | [Game Addiction](https://www.acmicpc.net/problem/20152) | 약 20분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/06-15/1-1.py)| 
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17836](https://www.acmicpc.net/problem/17836) | [공주님을 구해라!](https://www.acmicpc.net/problem/17836) | 약 35분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/06-15/2.py)|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20440](https://www.acmicpc.net/problem/20440) | [🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1](https://www.acmicpc.net/problem/20440) | 약 1시간 30분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/06-15/3-2.py)| 
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2213](https://www.acmicpc.net/problem/2213) | [트리의 독립집합](https://www.acmicpc.net/problem/2213) | 약 3시간 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/06-15/4.py)|
