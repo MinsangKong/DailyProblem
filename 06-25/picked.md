@@ -1,4 +1,4 @@
-## 2021/06/24
+## 2021/06/25
 | 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
 |:------:|:----:|:---------:|:------:|:------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [14247](https://www.acmicpc.net/problem/14247) | [나무 자르기](https://www.acmicpc.net/problem/14247) | 약 15분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/06-25/1.py)| 
