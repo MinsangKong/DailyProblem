@@ -1,4 +1,4 @@
-## 2021/06/26
+## 2021/06/27
 | 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
 |:------:|:----:|:---------:|:------:|:------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [13410](https://www.acmicpc.net/problem/13410) | [거꾸로 구구단](https://www.acmicpc.net/problem/13410) | 약 15분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/06-27/1.py)| 
