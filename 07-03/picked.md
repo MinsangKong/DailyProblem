@@ -1,4 +1,4 @@
-## 2021/07/02
+## 2021/07/03
 | 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
 |:------:|:----:|:---------:|:------:|:------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [14929](https://www.acmicpc.net/problem/14929) | [귀찮아 (SIB)](https://www.acmicpc.net/problem/14929) | 약 20분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/07-03/1-1.py)| 
