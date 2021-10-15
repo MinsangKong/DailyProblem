@@ -1,5 +1,5 @@
 #https://www.acmicpc.net/problem/2629
-#백준 2629번 양팔저울()
+#백준 2629번 양팔저울(DP, 누적합)
 #import sys
 #input = sys.stdin.readline
 
