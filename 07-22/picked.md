@@ -1,4 +1,4 @@
-## 2021/07/21
+## 2021/07/22
 | 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
 |:------:|:----:|:---------:|:------:|:------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [6996](https://www.acmicpc.net/problem/6996) | [애너그램](https://www.acmicpc.net/problem/6996) | 약 10분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/07-22/1.py)| 
