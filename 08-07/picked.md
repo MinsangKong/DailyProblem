@@ -1,4 +1,4 @@
-## 2021/08/06
+## 2021/08/07
 | 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
 |:------:|:----:|:---------:|:------:|:------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [14594](https://www.acmicpc.net/problem/14594) | [동방 프로젝트 (Small)](https://www.acmicpc.net/problem/14594) | 약 25분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/08-07/1-1.py)| 

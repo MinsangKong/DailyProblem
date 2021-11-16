@@ -1,4 +1,4 @@
-## 2021/08/06
+## 2021/08/08
 | 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
 |:------:|:----:|:---------:|:------:|:------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1359](https://www.acmicpc.net/problem/1359) | [복권](https://www.acmicpc.net/problem/1359) | 약 30분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/08-08/1.py)| 
