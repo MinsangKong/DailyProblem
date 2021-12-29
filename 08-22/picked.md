@@ -1,4 +1,4 @@
-## 2021/08/21
+## 2021/08/22
 | 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
 |:------:|:----:|:---------:|:------:|:------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2204](https://www.acmicpc.net/problem/2204) | [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204) | 약 10분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/08-22/1.py)| 
