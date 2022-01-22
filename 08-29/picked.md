@@ -1,4 +1,4 @@
-## 2021/08/28
+## 2021/08/29
 | 난이도 | 번호 | 문제 이름 | 소요시간 | 풀이 
 |:------:|:----:|:---------:|:------:|:------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2581](https://www.acmicpc.net/problem/2581) | [소수](https://www.acmicpc.net/problem/2581) | 약 10분 | [바로가기](https://github.com/MinsangKong/DailyProblem/blob/main/08-29/1.py)| 
